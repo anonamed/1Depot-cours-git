@@ -1,5 +1,6 @@
 <?php
 // modif 2
+// Ajout dans la branche 1
 session_name("blog_session");
 
 session_start();
