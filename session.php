@@ -1,5 +1,5 @@
 <?php
-
+// modif
 session_name("blog_session");
 
 session_start();
