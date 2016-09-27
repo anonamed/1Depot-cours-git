@@ -1,0 +1,12 @@
+.parallax-container {
+    min-height: 500px!important;
+}
+
+.content {
+    width: 95%;
+    padding-top: 0em;
+}
+
+div#index_view {
+    top: -15em;
+}
